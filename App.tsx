@@ -2,7 +2,7 @@ import React from 'react';
 
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {NavigationContainer} from '@react-navigation/native';
-import {Color, Component, Icon, Typography, Vibration} from './view';
+import {Color, Component, Icon, Vibration} from './view';
 
 const Tab = createBottomTabNavigator();
 
@@ -31,7 +31,6 @@ const App = () => {
         <Tab.Screen name="Color" component={Color} />
         <Tab.Screen name="Component" component={Component} />
         <Tab.Screen name="Icon" component={Icon} />
-        <Tab.Screen name="Typography" component={Typography} />
         <Tab.Screen name="Vibration" component={Vibration} />
       </Tab.Navigator>
     </NavigationContainer>
