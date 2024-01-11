@@ -12,4 +12,4 @@
 
 # Cocoapods
 #
-example/react-native/ios/Pods
+example/**/ios/Pods
