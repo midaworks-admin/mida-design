@@ -9,7 +9,3 @@
 # node.js
 #
 **/node_modules/
-
-# Cocoapods
-#
-example/**/ios/Pods
