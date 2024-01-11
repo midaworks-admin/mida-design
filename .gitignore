@@ -1,0 +1,15 @@
+# OSX
+#
+*.DS_Store
+
+# log
+#
+*.log
+
+# node.js
+#
+**/node_modules/
+
+# Cocoapods
+#
+example/react-native/ios/Pods
