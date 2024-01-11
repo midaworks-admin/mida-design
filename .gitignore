@@ -1,1 +1,11 @@
+# OSX
+#
 *.DS_Store
+
+# log
+#
+*.log
+
+# node.js
+#
+**/node_modules/
