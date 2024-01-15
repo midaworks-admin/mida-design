@@ -1,8 +1,8 @@
 {
   "name": "@mida-design/react-native-component",
-  "version": "0.0.8",
+  "version": "0.0.13",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
