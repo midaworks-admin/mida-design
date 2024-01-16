@@ -10,6 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@mida-design/react-native-component": "^0.0.13",
     "react": "18.1.0",
     "react-native": "0.70.6"
   },
